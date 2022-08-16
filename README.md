@@ -1,2 +1,3 @@
 # second-java-script
-hello
+
+this file is a project to change english numbers to persian
